@@ -1,0 +1,7 @@
+C:\Users\ERIK\source\repos\ActCreateTable\ActCreateTable\bin\Debug\ActCreateTable.exe.config
+C:\Users\ERIK\source\repos\ActCreateTable\ActCreateTable\bin\Debug\ActCreateTable.exe
+C:\Users\ERIK\source\repos\ActCreateTable\ActCreateTable\bin\Debug\ActCreateTable.pdb
+C:\Users\ERIK\source\repos\ActCreateTable\ActCreateTable\obj\Debug\ActCreateTable.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\ActCreateTable\ActCreateTable\obj\Debug\ActCreateTable.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\ActCreateTable\ActCreateTable\obj\Debug\ActCreateTable.exe
+C:\Users\ERIK\source\repos\ActCreateTable\ActCreateTable\obj\Debug\ActCreateTable.pdb
